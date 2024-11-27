@@ -15,7 +15,7 @@ importlib-metadata==1.7.0; python_version >= "3.6" and python_full_version < "3.
 inflection==0.5.1; python_version >= "3.5"
 jsonschema==4.2.1
 markdown==3.3.4; python_version >= "3.6"
-moviepy==1.0.3
+moviepy==2.1.1
 mutagen==1.45.1; python_version >= "3.5" and python_version < "4"
 numpy==1.21.1; python_version >= "3.7"
 pillow==8.3.2; python_version >= "3.6"
