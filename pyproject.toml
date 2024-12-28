@@ -50,7 +50,7 @@ pytest-cov = "*"
 tox = "^3.23.0"
 tox-poetry-installer = { extras = ["poetry"], version = "^0.8.0" }
 black = "^20.8b1"
-wemake-python-styleguide = "^0.15.2"
+wemake-python-styleguide = "^1.0.0"
 tox-gh-actions = "^2.5.0"
 pre-commit = "^2.12.1"
 mkdocs = "^1.1.2"
